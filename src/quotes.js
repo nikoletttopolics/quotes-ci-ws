@@ -5,6 +5,7 @@ const SEED = [
   "Have you tried turning it off and on again?",
   "There is no cloud, just someone else's computer.",
   "Be yourself; everyone else is already taken.",
+  "So many books, so little time.",
 ];
 
 function validateQuote(text) {
